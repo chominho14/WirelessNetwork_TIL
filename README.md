@@ -4,7 +4,8 @@
 
 #### Notion
 
-- https://gleaming-garlic-1d6.notion.site/fa449b0755d64bdea505d933ecca22bc
+- 프로젝트 계획, 진행 시 겪었던 Issue
+  - https://gleaming-garlic-1d6.notion.site/fa449b0755d64bdea505d933ecca22bc
 
 
 ---
